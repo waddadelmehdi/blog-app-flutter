@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767687124332",
+    "project_id": "blogapp1-5fb8c",
+    "storage_bucket": "blogapp1-5fb8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767687124332:android:90296ee148b1118201ff49",
+        "android_client_info": {
+          "package_name": "com.wem.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvj-Byrpb-xrIy8-iI6-h0cj6D2TzaRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767687124332:android:b2fa9dd5233b199101ff49",
+        "android_client_info": {
+          "package_name": "com.wem.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvj-Byrpb-xrIy8-iI6-h0cj6D2TzaRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
